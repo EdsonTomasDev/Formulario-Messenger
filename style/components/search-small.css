@@ -34,7 +34,7 @@
    
 }
 .searchsmall-imginput__input::placeholder {
-    font-family: SF Pro Text;
+    font-family: 'SF Pro Display', Helvetica, sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: normal;
@@ -48,3 +48,7 @@
     color:#0584FE;
 
 } */
+
+body {
+    background: red;
+}
