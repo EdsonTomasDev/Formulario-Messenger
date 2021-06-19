@@ -3,6 +3,7 @@
 @import url(../components/search.css);
 @import url(../components/search-small.css);
 @import url(../components/searchlarge.css);
+@import url(../components/searchto.css);
 
 @font-face {
     font-family: 'SF Pro Display';

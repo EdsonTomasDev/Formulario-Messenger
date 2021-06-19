@@ -1,0 +1,25 @@
+.searchto {
+    padding-left: 15px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background: rgba(0, 0, 0, 0.05);;
+    
+    
+}
+
+.searchto-imginput {
+    display: flex;
+    align-items: center;
+   
+   
+  }
+
+  .searchto-imginput img {
+      margin-left: 4px;
+  }
+
+  .searchto-imginput__input {
+      width: 300px;
+      border: none;
+      background: none;
+  }
