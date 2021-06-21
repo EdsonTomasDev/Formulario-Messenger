@@ -1,0 +1,28 @@
+
+.navbar-calling {
+    background: black;
+    text-align: center;
+
+}
+.navbar-calling img {
+    width: 80px;
+    height: 80px;
+}
+
+.navbar-calling h1 {
+    font-family: SF Pro Display;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.navbar-calling p {
+    font-family: SF Pro Display;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+}
