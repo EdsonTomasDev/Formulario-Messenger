@@ -4,8 +4,9 @@
     width: 90%;
     margin: 0 auto;
     align-items: center;
-    background: black;
+    margin-bottom: 28px;
     color: white;
+    padding-top: 14px;
 }
 
 .status-bar img {

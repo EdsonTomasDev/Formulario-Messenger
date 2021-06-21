@@ -1,0 +1,10 @@
+.content-call {
+    align-items: center;
+    text-align: center;
+   
+}
+
+body {
+    background: url(../../assets/images/image2.png);
+    background-size: cover;
+}
