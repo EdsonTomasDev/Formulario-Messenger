@@ -4,3 +4,10 @@
     margin: 0 auto;
     justify-content: space-between;
 }
+
+.call__video {
+    display: flex;
+    width: 38%;
+    margin: 0 auto;
+    justify-content: space-between;
+}

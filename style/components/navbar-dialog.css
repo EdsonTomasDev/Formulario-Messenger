@@ -1,8 +1,26 @@
 .navbar-dialog {
    margin-bottom: 95px;
+   
+   text-align: left;
     
 
 }
 .navbar-dialog img {
     margin-left: 20px;
+}
+
+/* PAGE MESSENGER-VIDEO */
+.navbar-dialog__video {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 95px;
+   
+     
+ }
+ .navbar-dialog__video img:not(:last-child) {
+     margin-left: 20px;
+ }
+
+ .navbar-dialog__video img:not(:first-child) {
+    margin-right: 20px;
 }

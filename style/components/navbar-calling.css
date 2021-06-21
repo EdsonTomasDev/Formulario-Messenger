@@ -1,7 +1,7 @@
 
 .navbar-calling {
-    margin-bottom: 211px;
     text-align: center;
+    margin-bottom: 212px;
 
 }
 .navbar-calling img {
@@ -25,4 +25,10 @@
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
+}
+
+.navbar-calling__video {
+    margin-bottom: 152px;
+   
+
 }
